@@ -6,13 +6,11 @@
 int main()
 {
 
-    int resultado;
+    char resultado;
 
-    char nombre[] = "";
+    resultado = validarChar("Ingrese letra:","Error reingrese: " ,'s','a');
 
-    resultado = validarInt("Ingrese edad:","Error reingrese: " ,100,0);
-
-    printf("la edad es %d ",resultado);
+    printf("la letra es %c ",resultado);
 
     return 0;
 }

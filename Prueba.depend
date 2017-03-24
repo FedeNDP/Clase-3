@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1490313861 source:c:\users\alumno\desktop\prueba\main.c
+1490316818 source:c:\users\alumno\desktop\prueba\main.c
 	<stdio.h>
 	<stdlib.h>
 	"biblioteca.h"
 
-1490313678 c:\users\alumno\desktop\prueba\biblioteca.h
+1490316544 c:\users\alumno\desktop\prueba\biblioteca.h
 	<stdio.h>
 	<stdlib.h>
 
@@ -12,7 +12,7 @@
 	<stdio.h>
 	<stdlib.h>
 
-1490314712 source:c:\users\alumno\desktop\prueba\biblioteca.c
+1490316591 source:c:\users\alumno\desktop\prueba\biblioteca.c
 	<stdio.h>
 	<stdlib.h>
 
